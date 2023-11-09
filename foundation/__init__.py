@@ -1,10 +1,3 @@
-# Copyright (c) 2020, salesforce.com, inc.
-# All rights reserved.
-# SPDX-License-Identifier: BSD-3-Clause
-# For full license text, see the LICENSE file in the repo root
-# or https://opensource.org/licenses/BSD-3-Clause
-
-# from foundation import utils
 from foundation.agents import agent_registry as agents
 from foundation.components import component_registry as components
 from foundation.entities import endogenous_registry as endogenous
