@@ -5,8 +5,8 @@
  * Copyright (c) 2023 by NetEase, Inc., All Rights Reserved.
 -->
 # the-MMO-Economist
-This repo is the unofficial implementation of The Game Economist. 
-The Game Economist is an economic simulation environment that facilitates the correspondence between real-world economic systems and their virtual counterparts for authentic and realistic assessments of MMO economic evolution.
+This repo is the unofficial implementation of The MMO Economist. 
+The MMO Economist is an economic simulation environment that facilitates the correspondence between real-world economic systems and their virtual counterparts for authentic and realistic assessments of MMO (Massively Multiplayer Online Game) economic evolution.
 
 ## Requirements
 The code has been tested running under Python 3.8.16, with the following packages installed (along with their dependencies):
