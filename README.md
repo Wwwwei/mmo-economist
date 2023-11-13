@@ -27,7 +27,7 @@ The code has been tested running under Python 3.8.16, with the following package
   - **Task**: Any production behavior in which players directly obtain resources through their labor in the game.
   - **Upgrade**: Any consuming behavior of players to improve their capabilities by consuming corresponding economic resources in the game.
   - **Auction**: Any trade behavior involving free trade between players in the game. All tradable economic resources can be traded structured as a continuous double auction.
-  - **Shop**: Any trade behavior where players directly purchase commodities from game malls or non-player characters~(NPCs) in the game.
+  - **Shop**: Any trade behavior where players directly purchase commodities from game malls or non-player characters (NPCs) in the game.
   - **Recharge**: Any forex behavior where players make payments in the game, such as IAP.
 - Economic Entity: **Agent players with different personalities.**
 - Economic Structure
