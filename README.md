@@ -35,6 +35,20 @@ The code has been tested running under Python 3.8.16, with the following package
   - **Planned Economy**: Economy with economic regulation and control by human or AI 
 
 ## Running
+GYM-style environment for using in practice:
+```
+import foundation
+
+env_config = {}
+env = foundation.make_env_instance(**env_config)
+
+obs = env.reset()
+for t in range(env.episode_length):
+  actions = env.sample_random_actions(obs)
+  obs, rew, done, info = env.step(actions)
+  ……
+```
+tutorial:
 - demo.ipynb: This demo shows how environmen works in economic simulations.
 - demo_rllib_yaml.ipynb: This demo shows how AI works in economic design.
 
