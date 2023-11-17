@@ -36,7 +36,7 @@ The code has been tested running under Python 3.8.16, with the following package
 
 ## Running
 GYM-style environment for using in practice:
-```
+```python
 import foundation
 
 env_config = {}
@@ -46,7 +46,7 @@ obs = env.reset()
 for t in range(env.episode_length):
   actions = env.sample_random_actions(obs)
   obs, rew, done, info = env.step(actions)
-  ……
+  # ……
 ```
 tutorial:
 - demo.ipynb: This demo shows how environmen works in economic simulations.
