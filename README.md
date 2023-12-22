@@ -31,8 +31,8 @@ The code has been tested running under Python 3.8.16, with the following package
   - **Recharge**: Any forex behavior where players make payments in the game, such as IAP.
 - Economic Entity: **Agent players with different personalities.**
 - Economic Structure
-  - **Market Economy**: Free economy without any economic regulation and control
-  - **Planned Economy**: Economy with economic regulation and control by human or AI 
+  - **Market Economy**: Free economy without any economic regulation and control.
+  - **Planned Economy**: Economy with economic regulation and control by human or AI. 
 
 ## Running
 GYM-style environment for using in practice:
